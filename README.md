@@ -28,6 +28,4 @@ Remember, transferring tokens will require Ether in your account to pay for gas 
 
 This guide assumes you already have MetaMask installed and set up. If not, you can download MetaMask from [https://metamask.io/](https://metamask.io/) and follow the setup instructions.
 
-## License
-
-This guide is provided under the MIT License.
+Thank you
